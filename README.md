@@ -9,6 +9,8 @@
 상단에 있는 Pokemon Picker링크를 클릭하면 홈 화면으로 다시 이동됩니다.
 > poke api가 영어만 제공하므로 영어 검색만 가능합니다.
 
+[Deom](https://affectionate-johnson-815d73.netlify.app)
+
 ### 프레임워크 & 라이브러리
 
 - vue3
