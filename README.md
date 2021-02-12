@@ -25,15 +25,28 @@ npm install tailwindcss
 ```
 
 ### 프로젝트 구성
+
+> vue-cli를 사용하여 프로젝트 생성 
+```
+vue create app-name
+vue add tailwind
+```
+
 📦src
- ┣ 📂assets
- ┃ ┗ 📜tailwind.css
- ┣ 📂components
- ┣ 📂router
- ┃ ┗ 📜index.js
- ┣ 📂views
- ┃ ┣ 📜Home.vue
- ┃ ┗ 📜Pokemon.vue
- ┣ 📜App.vue
- ┗ 📜main.js
+    ┣ 📂assets
+    ┃ ┗ 📜tailwind.css
+    ┣ 📂components
+    ┣ 📂router
+    ┃ ┗ 📜index.js
+    ┣ 📂views
+    ┃ ┣ 📜Home.vue
+    ┃ ┗ 📜Pokemon.vue
+    ┣ 📜App.vue
+    ┗ 📜main.js
+
+### 스크린샷
+
+![](screenshot/homeview.png)
+![](screenshot/search.png)
+![](screenshot/result.png)
 
