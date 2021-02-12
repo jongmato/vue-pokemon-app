@@ -31,18 +31,19 @@ npm install tailwindcss
 vue create app-name
 vue add tailwind
 ```
-
+```
 📦src
-    ┣ 📂assets
-    ┃ ┗ 📜tailwind.css
-    ┣ 📂components
-    ┣ 📂router
-    ┃ ┗ 📜index.js
-    ┣ 📂views
-    ┃ ┣ 📜Home.vue
-    ┃ ┗ 📜Pokemon.vue
-    ┣ 📜App.vue
-    ┗ 📜main.js
+  ┣ 📂assets
+  ┃ ┗ 📜tailwind.css
+  ┣ 📂components
+  ┣ 📂router
+  ┃ ┗ 📜index.js
+  ┣ 📂views
+  ┃ ┣ 📜Home.vue
+  ┃ ┗ 📜Pokemon.vue
+  ┣ 📜App.vue
+  ┗ 📜main.js
+```
 
 ### 스크린샷
 
